@@ -16,5 +16,27 @@ namespace Git
         {
             InitializeComponent();
         }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnLogin_Click(object sender, EventArgs e)
+        {
+            if (txtPassword.Text == "admin" && txtUserName.Text == "admin")
+            {
+                Form2 t = new Form2();
+                t.ShowDialog();
+            } else
+            {
+                MessageBox.Show("that bai");
+            }
+        }
     }
 }
