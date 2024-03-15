@@ -9,3 +9,14 @@ C:\Users\MY ASUS\Downloads\Git\Git2\Git\Git\obj\Debug\Git.csproj.GenerateResourc
 C:\Users\MY ASUS\Downloads\Git\Git2\Git\Git\obj\Debug\Git.csproj.CoreCompileInputs.cache
 C:\Users\MY ASUS\Downloads\Git\Git2\Git\Git\obj\Debug\Git.exe
 C:\Users\MY ASUS\Downloads\Git\Git2\Git\Git\obj\Debug\Git.pdb
+E:\KTGit15_3\Git2\Git\Git\bin\Debug\Git.exe.config
+E:\KTGit15_3\Git2\Git\Git\bin\Debug\Git.exe
+E:\KTGit15_3\Git2\Git\Git\bin\Debug\Git.pdb
+E:\KTGit15_3\Git2\Git\Git\obj\Debug\Git.csproj.AssemblyReference.cache
+E:\KTGit15_3\Git2\Git\Git\obj\Debug\Git.Form1.resources
+E:\KTGit15_3\Git2\Git\Git\obj\Debug\Git.Form2.resources
+E:\KTGit15_3\Git2\Git\Git\obj\Debug\Git.Properties.Resources.resources
+E:\KTGit15_3\Git2\Git\Git\obj\Debug\Git.csproj.GenerateResource.cache
+E:\KTGit15_3\Git2\Git\Git\obj\Debug\Git.csproj.CoreCompileInputs.cache
+E:\KTGit15_3\Git2\Git\Git\obj\Debug\Git.exe
+E:\KTGit15_3\Git2\Git\Git\obj\Debug\Git.pdb
