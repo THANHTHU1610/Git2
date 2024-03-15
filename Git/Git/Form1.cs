@@ -26,5 +26,17 @@ namespace Git
         {
 
         }
+
+        private void btnLogin_Click(object sender, EventArgs e)
+        {
+            if (txtPassword.Text == "admin" && txtUserName.Text == "admin")
+            {
+                Form2 t = new Form2();
+                t.ShowDialog();
+            } else
+            {
+                MessageBox.Show("that bai");
+            }
+        }
     }
 }
